@@ -1,8 +1,9 @@
-module FloodingP{
-    provides interface Flooding;    
+module FloodingP {
+    provides interface Flooding;
 }
 
-implementation{
-    command void Flooding.pass(){
-  }
+implementation {
+    command void Flooding.pass() {
+        
+    }
 }
