@@ -1,3 +1,3 @@
-interface Flooding(){
+interface Flooding{
     command void pass(); 
 }
