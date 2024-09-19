@@ -1,5 +1,5 @@
 configuration FloodingC{
-    providing interface Flooding; 
+    provides interface Flooding; 
 }
 implementation{
     components FloodingP;
